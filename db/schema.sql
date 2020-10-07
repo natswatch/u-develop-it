@@ -1,5 +1,5 @@
 DROP TABLE IF EXISTS parties;
-DROP TABLE IF EXISTS candidatesp;
+DROP TABLE IF EXISTS candidates;
 
 
 CREATE TABLE candidates(
